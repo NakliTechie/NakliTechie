@@ -30,6 +30,10 @@ I build browser-native tools that run entirely on your device. No servers, no AP
 
 | | |
 |---|---|
+| [**KanZen**](https://kanzen.naklitechie.com/) | Kanban without the noise — local-first Trello alternative, boards as JSON files |
+| [**NakliPoster**](https://nakliposter.naklitechie.com/) | Local-first API client — no account, no cloud, encrypted link sharing |
+| [**VaultMind**](https://vaultmind.naklitechie.com/) | Obsidian vault explorer — force graph, AI chat, in-place editor |
+| [**Hue & Cry**](https://hueandcry.naklitechie.com/) | Colour styling — match clothes to Sanzo Wada's 1930s palette |
 | [**StripLocal**](https://naklitechie.github.io/StripLocal/) | EXIF metadata stripper — drag-and-drop, zero deps |
 | [**PredictionMarket**](https://naklitechie.github.io/PredictionMarket/) | Market simulator — Parimutuel & LMSR |
 | [**Clacker**](https://naklitechie.github.io/Clacker/) | Split-flap display — no dependencies |
