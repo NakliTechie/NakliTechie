@@ -1,6 +1,6 @@
 ### Hey, I'm Chirag Patnaik
 
-[All projects](https://naklitechie.github.io/) · [chiragpatnaik.com](http://www.chiragpatnaik.com) · [naklitechie.com](https://naklitechie.com)
+[All projects](https://naklitechie.github.io/) · [chiragpatnaik.com](http://www.chiragpatnaik.com) · [naklitechie.com](https://naklitechie.com) · [Substack](https://naklitechie.substack.com/)
 
 I build single-file web apps that run entirely in your browser — no accounts, no servers, no data leaving your device. Recent work spans encrypted chat, accounting software, a site builder, and a TOTP authenticator, all as single HTML files.
 
