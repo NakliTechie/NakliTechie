@@ -1,59 +1,68 @@
 ### Hey, I'm Chirag Patnaik
 
-I build browser-native tools — single HTML files that run entirely on your device. No server, no account, no telemetry, no data leaving the browser.
+[All projects](https://naklitechie.github.io/) · [chiragpatnaik.com](http://www.chiragpatnaik.com) · [naklitechie.com](https://naklitechie.com)
 
-ML inference, dev utilities, productivity tools, game AI — all of it computing locally because there's usually no good reason to ship your data to someone's server. Each project is one file you can save to disk and use offline.
+I build single-file web apps that run entirely in your browser — no accounts, no servers, no data leaving your device. Recent work spans encrypted chat, accounting software, a site builder, and a TOTP authenticator, all as single HTML files.
 
 ---
+
+#### Privacy & Security
+
+| | |
+|---|---|
+| [**Mehfil**](https://naklitechie.github.io/mehfil/) | Encrypted team chat — no accounts, no central server |
+| [**Rotor**](https://rotor.naklitechie.com) | TOTP authenticator — encrypted vault, QR scan, offline backup |
+| [**BlurLocal**](https://naklitechie.github.io/blurlocal/) | Face blur for photos and videos |
+| [**StripLocal**](https://naklitechie.github.io/StripLocal/) | EXIF metadata stripper |
+
+#### Productivity
+
+| | |
+|---|---|
+| [**Bahi**](https://bahi.naklitechie.com) | Accounting for Indian SMBs — GST reports, Tally import, CA mode |
+| [**KanZen**](https://kanzen.naklitechie.com/) | Kanban boards — local-first Trello alternative |
+| [**Nemawashi**](https://nemawashi.naklitechie.com/) | Group decision tool — everyone scores, best combination wins |
+| [**Kagaz**](https://kagaz.naklitechie.com) | Personal site builder — pick a layout, export a static site |
 
 #### AI Tools
 
 | | |
 |---|---|
-| [**LocalMind**](https://naklitechie.github.io/LocalMind/) | Private AI chatbot — Gemma 3/4 multimodal via WebGPU, agentic tool use, RAG memory, web search |
-| [**BabelLocal**](https://naklitechie.github.io/BabelLocal/) | Translator — 200 languages, NLLB model via Transformers.js |
-| [**VoiceVault**](https://naklitechie.github.io/VoiceVault/) | Voice transcription — Whisper, offline-first, cached after first load |
+| [**LocalMind**](https://naklitechie.github.io/LocalMind/) | Private AI research agent — web search, document ingestion, RAG memory |
+| [**BabelLocal**](https://naklitechie.github.io/BabelLocal/) | 55-language translator |
+| [**VoiceVault**](https://naklitechie.github.io/VoiceVault/) | Voice transcription powered by Whisper |
+| [**SnipLocal**](https://naklitechie.github.io/SnipLocal/) | Background remover with passport photo mode |
+| [**ScanLocal**](https://naklitechie.github.io/ScanLocal/) | OCR — text from images and PDFs |
+| [**VaultMind**](https://vaultmind.naklitechie.com/) | Obsidian vault explorer with AI chat |
 
-#### Vision & Media
-
-| | |
-|---|---|
-| [**SnipLocal**](https://naklitechie.github.io/SnipLocal/) | Background remover — RMBG-1.4, passport mode, edge softening |
-| [**ScanLocal**](https://naklitechie.github.io/ScanLocal/) | OCR — extract text from images and scanned PDFs |
-| [**BlurLocal**](https://naklitechie.github.io/blurlocal/) | Face blur — MediaPipe detection, gaussian and pixelate modes |
-
-#### Developer Tools
+#### Developer
 
 | | |
 |---|---|
-| [**BOFH**](https://bofh.naklitechie.com/) | Browser-native dev toolkit — 31 modules in one HTML file: JSON, JWT, hash, regex, diff, SQL, X.509, cron, and more |
-| [**NakliPoster**](https://nakliposter.naklitechie.com/) | Local-first API client — collections as plain JSON files, encrypted link sharing |
-| [**KanZen**](https://kanzen.naklitechie.com/) | Kanban without the noise — local-first Trello alternative, boards as JSON files, BYO sync |
+| [**BOFH**](https://bofh.naklitechie.com/) | Dev toolkit — 20 modules (JSON, JWT, hash, regex, diff, and more) |
+| [**NakliPoster**](https://nakliposter.naklitechie.com/) | API client — REST, GraphQL, WebSocket |
 
-#### Knowledge & Decisions
+#### Design
 
 | | |
 |---|---|
-| [**VaultMind**](https://vaultmind.naklitechie.com/) | Obsidian vault explorer — force graph, full-text search, AI chat, in-place editor |
-| [**Nemawashi**](https://naklitechie.github.io/Nemawashi/) | Multi-axis group consensus — score options, find the combination that maximises group satisfaction |
-| [**PredictionMarket**](https://naklitechie.github.io/PredictionMarket/) | Educational market simulator — Parimutuel and LMSR mechanisms |
+| [**Rangrez**](https://rangrez.naklitechie.com) | Colour palettes named after traditions, places, and crafts |
+| [**Hue & Cry**](https://hueandcry.naklitechie.com/) | Photograph a garment, match its colours to classic palettes |
+| [**DotSpin**](https://naklitechie.github.io/dotspin/) | 15 CSS dot-matrix spinners — zero JS, zero dependencies |
+| [**Clacker**](https://naklitechie.github.io/Clacker/) | Split-flap display for your screen |
 
 #### Games
 
 | | |
 |---|---|
-| [**KoLocal**](https://naklitechie.github.io/KoLocal/) | Go (Baduk) vs MCTS AI — fast numeric playout engine |
-| [**GambitLocal**](https://naklitechie.github.io/GambitLocal/) | Chess vs Stockfish — correspondence mode via URL-encoded PGN |
-| [**KingMe**](https://naklitechie.github.io/KingMe/) | English draughts vs minimax AI — custom SVG board |
-
-#### Curiosities
-
-| | |
-|---|---|
-| [**Hue & Cry**](https://hueandcry.naklitechie.com/) | Colour styling — match clothes to Sanzo Wada's 1930s palette via Delta E |
-| [**StripLocal**](https://naklitechie.github.io/StripLocal/) | EXIF metadata stripper — drag-and-drop, zero deps |
-| [**Clacker**](https://naklitechie.github.io/Clacker/) | Split-flap display for your screen — no dependencies |
+| [**KoLocal**](https://naklitechie.github.io/KoLocal/) | Go (Baduk) vs AI |
+| [**GambitLocal**](https://naklitechie.github.io/GambitLocal/) | Chess vs Stockfish |
+| [**KingMe**](https://naklitechie.github.io/KingMe/) | Checkers vs AI |
+| [**3D Tic-Tac-Toe**](https://naklitechie.github.io/3d-tic-tac-toe/) | 4×4×4 cube — vs AI or 2-player |
+| [**Strait Command**](https://naklitechie.github.io/strait-command/) | Naval strategy |
+| [**Chokepoint**](https://naklitechie.github.io/chokepoint/) | Maritime tower defense |
+| [**Prediction Market**](https://naklitechie.github.io/PredictionMarket/) | Market simulator |
 
 ---
 
-[All projects](https://naklitechie.github.io/) &middot; [chiragpatnaik.com](http://www.chiragpatnaik.com)
+[All projects](https://naklitechie.github.io/) · [chiragpatnaik.com](http://www.chiragpatnaik.com)
