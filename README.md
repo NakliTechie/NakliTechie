@@ -2,7 +2,7 @@
 
 [All projects](https://naklitechie.github.io/) · [chiragpatnaik.com](http://www.chiragpatnaik.com) · [naklitechie.com](https://naklitechie.com) · [Substack](https://naklitechie.substack.com/)
 
-I build single-file web apps that run entirely in your browser — no accounts, no servers, no data leaving your device. Recent work spans encrypted chat, accounting software, a site builder, and a TOTP authenticator, all as single HTML files.
+I build single-file web apps that run entirely in your browser — no accounts, no servers, no data leaving your device. Recent work spans a 3D simulation of the Antikythera mechanism, encrypted chat, accounting software, a site builder, and a TOTP authenticator, all as single HTML files.
 
 ---
 
@@ -46,6 +46,7 @@ I build single-file web apps that run entirely in your browser — no accounts, 
 
 | | |
 |---|---|
+| [**Mechanikon**](https://mechanikon.naklitechie.com) | The ancient Greek Antikythera mechanism, live in your browser |
 | [**Rangrez**](https://rangrez.naklitechie.com) | Colour palettes named after traditions, places, and crafts |
 | [**Hue & Cry**](https://hueandcry.naklitechie.com/) | Photograph a garment, match its colours to classic palettes |
 | [**DotSpin**](https://naklitechie.github.io/dotspin/) | 15 CSS dot-matrix spinners — zero JS, zero dependencies |
