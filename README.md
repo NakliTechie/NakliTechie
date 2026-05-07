@@ -28,7 +28,7 @@ I build single-file web apps that run entirely in your browser — no accounts, 
 
 | | |
 |---|---|
-| [**SansadLocal**](https://naklitechie.github.io/SansadLocal/) | Browse and summarise Indian Parliamentary Committee reports — on-device AI, no key needed |
+| [**SansadLocal**](https://sansadlocal.naklitechie.com) | Browse and summarise Indian Parliamentary Committee reports — on-device AI, no key needed |
 | [**LocalMind**](https://naklitechie.github.io/LocalMind/) | Private AI research agent — web search, document ingestion, RAG memory |
 | [**BabelLocal**](https://naklitechie.github.io/BabelLocal/) | 55-language translator |
 | [**VoiceVault**](https://naklitechie.github.io/VoiceVault/) | Voice transcription powered by Whisper |
