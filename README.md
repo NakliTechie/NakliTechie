@@ -2,7 +2,7 @@
 
 [All projects](https://naklitechie.github.io/) · [chiragpatnaik.com](http://www.chiragpatnaik.com) · [naklitechie.com](https://naklitechie.com) · [Substack](https://naklitechie.substack.com/)
 
-I build single-file web apps that run entirely in your browser — no accounts, no servers, no data leaving your device. Recent work spans a 3D simulation of the Antikythera mechanism, encrypted chat, accounting software, a site builder, and a TOTP authenticator, all as single HTML files.
+I build single-file web apps that run entirely in your browser — no accounts, no servers, no data leaving your device. Recent work spans a 3D simulation of the Antikythera mechanism, encrypted chat, accounting software, a TOTP authenticator, and a private reader for India's Parliamentary Committee reports — all as single HTML files.
 
 ---
 
@@ -28,6 +28,7 @@ I build single-file web apps that run entirely in your browser — no accounts, 
 
 | | |
 |---|---|
+| [**SansadLocal**](https://naklitechie.github.io/SansadLocal/) | Browse and summarise Indian Parliamentary Committee reports — on-device AI, no key needed |
 | [**LocalMind**](https://naklitechie.github.io/LocalMind/) | Private AI research agent — web search, document ingestion, RAG memory |
 | [**BabelLocal**](https://naklitechie.github.io/BabelLocal/) | 55-language translator |
 | [**VoiceVault**](https://naklitechie.github.io/VoiceVault/) | Voice transcription powered by Whisper |
