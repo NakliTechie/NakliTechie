@@ -14,6 +14,7 @@ I build single-file web apps that run entirely in your browser — no accounts, 
 | [**Crate**](https://crate.naklitechie.com) | Personal cloud folder — your bucket, AES-256-GCM encrypted before it leaves the tab |
 | [**LocalMind**](https://naklitechie.github.io/LocalMind/) | Private AI research agent — web search, document ingestion, RAG memory |
 | [**VaultMind**](https://vaultmind.naklitechie.com/) | Obsidian vault explorer — force graph, full-text search, AI chat, in-place editing |
+| [**Private Mesh**](https://github.com/NakliTechie/private-mesh) | The capability fabric underneath NakliOS — seven primitives (Identity, Vault, Sync, LLM, Bridge) across Go and JS SDKs |
 
 ---
 
