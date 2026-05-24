@@ -6,7 +6,7 @@ I build single-file web apps that run entirely in your browser — no accounts, 
 
 ---
 
-#### Flagship
+#### Featured
 
 | | |
 |---|---|
