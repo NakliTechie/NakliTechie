@@ -4,6 +4,8 @@
 
 I build single-file web apps that run entirely in your browser — no accounts, no servers, no data leaving your device. Recent work: a desktop OS for the whole collection, an encrypted cloud folder, P2P file transfer over WebRTC, a Linux VM in the tab, and an interactive atlas of 2,500 years of Indian history.
 
+My current research focus is **small language model training and distributed inference** — getting capable models to fine-tune and run on the hardware you actually have.
+
 ---
 
 #### Featured
