@@ -4,7 +4,7 @@
 
 My current focus is applied AI — **training small language models and distributed inference**, getting capable models to fine-tune and serve on the hardware you actually have.
 
-I'm co-founder of **Prashnam**, India's first AI-powered telephonic opinion platform — its survey data has been cited by *The Economist* and *The New York Times* — and I lead product and technology for **Atrium Solutions**, working closely with RANE to build a forecasting and decision-intelligence platform. Over two decades I've held senior product roles across Times Internet, India Today, IndiaMART, and Samsung. Based in Mumbai.
+I'm co-founder of [**Prashnam**](https://www.prashnam.ai/), India's first AI-powered telephonic opinion platform — its survey data has been cited by *The Economist* and *The New York Times* — and I lead product and technology for [**Atrium Solutions**](https://www.atriumsolutions.net/), building a forecasting and decision-intelligence platform. Over two decades I've held senior product roles across Times Internet, India Today, IndiaMART, and Samsung.
 
 On the side I build single-file web apps that run entirely in your browser — no accounts, no servers, no data leaving your device. Recent work: a desktop OS for the whole collection, an encrypted cloud folder, P2P file transfer over WebRTC, a Linux VM in the tab, and an interactive atlas of 2,500 years of Indian history.
 
