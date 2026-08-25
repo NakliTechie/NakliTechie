@@ -19,7 +19,7 @@ On the side I build single-file web apps that run entirely in your browser — n
 | [**LocalMind**](https://naklitechie.github.io/LocalMind/) | Private AI research agent — web search, document ingestion, RAG memory, real tool calling, on a small open model on WebGPU |
 | [**kohra**](https://naklitechie.github.io/kohra/) | Text-diffusion language models in the browser — a denoising loop over ONNX Runtime Web and WebGPU. The first in-browser text-diffusion generation |
 | [**browser-big-fast-lab**](https://github.com/NakliTechie/browser-big-fast-lab) | The biggest model you can run genuinely fast in a browser, judged as an AI sidecar (TTFT, tool-calling). A child of kohra |
-| [**NakliOS**](https://naklios.dev/) | A desktop in your browser — every tool in one place, folders, windows, dock, Cmd-K spotlight |
+| [**NakliOS**](https://naklios.dev/) | A private, browser-native desktop that gives every single-file tool a home — windowed apps, ⌘K spotlight, a dock, sticky notes, per-app sandboxing. Immersive mode runs each app as a native-feeling window |
 
 ---
 
